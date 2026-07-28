@@ -94,7 +94,7 @@
         "rehype-katex": "^7.0.1",
         "remark-frontmatter": "^5.0.0",
         "remark-math": "^6.0.0",
-        "tar": "^6.2.1",
+        "tar": "^7.5.21",
         "ws": "^8.19.0",
         "xlsx": "^0.18.5"
     },
