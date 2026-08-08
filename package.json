@@ -89,7 +89,7 @@
         "monaco-editor": "^0.55.1",
         "ms": "^2.1.3",
         "node-machine-id": "^1.1.12",
-        "pdfjs-dist": "^5.7.284",
+        "pdfjs-dist": "^6.2.108",
         "posthog-node": "^5.28.0",
         "rehype-katex": "^7.0.1",
         "remark-frontmatter": "^5.0.0",
